@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### hello
+i'm sylenth, a human using electronic devices 📺
 <!--
 **SylenthHub/SylenthHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
